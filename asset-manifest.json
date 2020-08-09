@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "https://bearslairs.eu/static/css/main.209283e3.chunk.css",
-    "main.js": "https://bearslairs.eu/static/js/main.0fa3976b.chunk.js",
-    "main.js.map": "https://bearslairs.eu/static/js/main.0fa3976b.chunk.js.map",
+    "main.css": "https://bearslairs.eu/static/css/main.c6215dd8.chunk.css",
+    "main.js": "https://bearslairs.eu/static/js/main.f3e55023.chunk.js",
+    "main.js.map": "https://bearslairs.eu/static/js/main.f3e55023.chunk.js.map",
     "runtime-main.js": "https://bearslairs.eu/static/js/runtime-main.58324efd.js",
     "runtime-main.js.map": "https://bearslairs.eu/static/js/runtime-main.58324efd.js.map",
     "static/css/2.3d798859.chunk.css": "https://bearslairs.eu/static/css/2.3d798859.chunk.css",
-    "static/js/2.e4b9e7cf.chunk.js": "https://bearslairs.eu/static/js/2.e4b9e7cf.chunk.js",
-    "static/js/2.e4b9e7cf.chunk.js.map": "https://bearslairs.eu/static/js/2.e4b9e7cf.chunk.js.map",
+    "static/js/2.e03af7f3.chunk.js": "https://bearslairs.eu/static/js/2.e03af7f3.chunk.js",
+    "static/js/2.e03af7f3.chunk.js.map": "https://bearslairs.eu/static/js/2.e03af7f3.chunk.js.map",
     "index.html": "https://bearslairs.eu/index.html",
-    "precache-manifest.e977e49ab1f7cad62045f921d2902ce9.js": "https://bearslairs.eu/precache-manifest.e977e49ab1f7cad62045f921d2902ce9.js",
+    "precache-manifest.5a6744bfbc53b4ec8c3df6f1b7085e23.js": "https://bearslairs.eu/precache-manifest.5a6744bfbc53b4ec8c3df6f1b7085e23.js",
     "service-worker.js": "https://bearslairs.eu/service-worker.js",
     "static/css/2.3d798859.chunk.css.map": "https://bearslairs.eu/static/css/2.3d798859.chunk.css.map",
-    "static/css/main.209283e3.chunk.css.map": "https://bearslairs.eu/static/css/main.209283e3.chunk.css.map",
-    "static/js/2.e4b9e7cf.chunk.js.LICENSE.txt": "https://bearslairs.eu/static/js/2.e4b9e7cf.chunk.js.LICENSE.txt",
+    "static/css/main.c6215dd8.chunk.css.map": "https://bearslairs.eu/static/css/main.c6215dd8.chunk.css.map",
+    "static/js/2.e03af7f3.chunk.js.LICENSE.txt": "https://bearslairs.eu/static/js/2.e03af7f3.chunk.js.LICENSE.txt",
     "static/media/index.css": "https://bearslairs.eu/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.58324efd.js",
     "static/css/2.3d798859.chunk.css",
-    "static/js/2.e4b9e7cf.chunk.js",
-    "static/css/main.209283e3.chunk.css",
-    "static/js/main.0fa3976b.chunk.js"
+    "static/js/2.e03af7f3.chunk.js",
+    "static/css/main.c6215dd8.chunk.css",
+    "static/js/main.f3e55023.chunk.js"
   ]
 }
