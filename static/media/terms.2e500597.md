@@ -374,3 +374,5 @@ The Customer understands and accepts these general terms and conditions of stora
 Any notice given under this Agreement must be in writing or by electronic communication. Written notice may be served by personal delivery to the person notified or its address or by pre-paid post. Your address for service of notices shall be Your address written on the Licence Agreement, or any other address in Bulgaria which You have previously notified to Us in writing. Any notice to You will also be sent to any owner (whether sole, joint or co-owners),the name and address of whom we have been previously notified by You. Any notice to Us must be sent to Our email address or to Our Head Office postal address. A notice will be served at the time of personal delivery or forty-eight hours after it has been placed in the post.
 
 You will inform Us promptly and in writing of any changes to Your billing details, authorised persons, insurance details, contact information or any other details stated within the Licence Agreement.
+
+This License Agreement was last updated in October, 2020.
