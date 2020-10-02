@@ -11,7 +11,7 @@ The self storage agreement including these **Terms and Conditions of a Licence t
 
 All items which are stored or placed anywhere in the Bears Lairs facility, including the storage Unit, are referred to as the **‘Goods’**.
 
-In these terms and conditions, the following words have the meanings described here:
+In these terms and conditions, the following words and phrases have the meanings described here:
 
 * the **‘Unit’**:
   The storage unit specified on the front page of the Licence Agreement by the number which identifies it and its fixed location by reference to the numbering of Units on the plan of the Site, together with the land on which such Unit is located, likewise as identified by number on that plan
@@ -52,7 +52,7 @@ We may ask for proof of identity from You or any other person (on Site) at any t
 
 ##### Authorised alternate contact(s)
 
-We may contact Your authorised Secondary Contact(s) to discuss, disclose and provide access to Your account details and discuss any default of this Licence by You.You must provide Us with an alternate contact, who We may contact to ask for their assistance in contacting You. You warrant that You have the right to provide to Us the personal data of authorised Secondary Contact(s) and alternate contacts and to authorize our use of such data for the purposes of 2.3.2.4
+We may contact Your authorised Secondary Contact(s) to discuss, disclose and provide access to Your account details and discuss any default of this Licence by You. You must provide Us with an alternate contact, who We may contact to ask for their assistance in contacting You. You warrant that You have the right to provide to Us the personal data of authorised Secondary Contact(s) and alternate contacts and to authorize our use of such data for the purposes outlined here.
 
 ##### Unit dimensions
 
@@ -147,21 +147,19 @@ You are strictly forbidden from storing the following goods in the Storage Unit 
   * heavy metals such as mercury in thermometers, cadmium and zinc from batteries, lead and copper;
   * pesticides and herbicides
 
-Most toxic, flammable or hazardous substances can be recognised by the symbols below:
+Most properly labelled toxic, flammable or hazardous substances can be recognised by the symbols below:
 
-|                                                                                                                                                                                |                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
-| ![hazardous substance: acutetoxicity](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-acute-toxicity.png)               | acute toxicity               |
-| ![hazardous substance: acutetoxicity](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-corrosive.png)                    | corrosive                    |
-| ![hazardous substance: acutetoxicity](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-explosive.png)                    | explosive                    |
-| ![hazardous substance: acutetoxicity](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-flammable.png)                    | flammable                    |
-| ![hazardous substance: acutetoxicity](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-gas-under-pressure.png)           | gas under pressure           |
-| ![hazardous substance: acutetoxicity](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-hazardous-to-the-environment.png) | hazardous to the environment |
-| ![hazardous substance: acutetoxicity](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-health-hazard.png)                | health hazard                |
-| ![hazardous substance: acutetoxicity](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-oxidising.png)                    | oxidising                    |
-| ![hazardous substance: acutetoxicity](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-serious-health-hazard.png)        | serious health hazard        |
-
-
+|                                                                                                                                                                                               |                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| ![hazardous substance: acutet oxicity](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-acute-toxicity.png)                             | acute toxicity               |
+| ![hazardous substance: corrosive](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-corrosive.png)                                       | corrosive                    |
+| ![hazardous substance: explosive](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-explosive.png)                                       | explosive                    |
+| ![hazardous substance: flammable](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-flammable.png)                                       | flammable                    |
+| ![hazardous substance: gas under pressure](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-gas-under-pressure.png)                     | gas under pressure           |
+| ![hazardous substance: hazardous to the environment](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-hazardous-to-the-environment.png) | hazardous to the environment |
+| ![hazardous substance: health hazard](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-health-hazard.png)                               | health hazard                |
+| ![hazardous substance: oxidising](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-oxidising.png)                                       | oxidising                    |
+| ![hazardous substance: serious health hazard](https://github.com/bearslairs/bearslairs-serverless-react/raw/main/public/img/icon-hazardous-substance-serious-health-hazard.png)               | serious health hazard        |
 
 You are bound to inspect the Goods and remove any article containing the warnings above, prior to entering them into the Unit.
 
