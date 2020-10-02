@@ -333,7 +333,7 @@ In the event of an emergency or a fault while inside the lift, please press the 
 * Parking is only allowed in the designated areas.
 * Road traffic regulations are applicable inside the storage facility.
 
-##### Additional rules
+##### Site and facility rules
 
 * Smoking is strictly prohibited anywhere on the Site.
 * The use of a trolley, the lift or any other such equipment shall always be at the sole risk of the customer.
